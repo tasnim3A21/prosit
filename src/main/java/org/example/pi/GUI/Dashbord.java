@@ -5,5 +5,5 @@ import javafx.scene.control.Label;
 
 public class Dashbord {
     @FXML
-    private Label welcomeText;
+    private Label welext;
 }
